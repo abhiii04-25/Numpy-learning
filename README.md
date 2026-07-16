@@ -1,5 +1,5 @@
 # Numpy-learning
-Daily NumPy practice and exercises for Data Analytics, AI/ML, and Data Science
+Daily NumPy practice and exercises for Data Analytics, AI/ML, and Data Science.
 
 # NumPy Learning Journey
 
